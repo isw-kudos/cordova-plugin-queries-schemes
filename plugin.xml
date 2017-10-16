@@ -38,6 +38,7 @@
           <string>sumupmerchant</string>
           <string>yammer</string>
           <string>salesforce</string>
+          <string>ibmscp</string>
         </array>
       </config-file>
     </platform>
