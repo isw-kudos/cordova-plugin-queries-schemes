@@ -39,6 +39,10 @@
           <string>yammer</string>
           <string>salesforce</string>
           <string>ibmscp</string>
+          <string>maas360</string>
+          <string>maas360auth</string>
+          <string>maas360v3</string>
+          <string>maas360v4</string>
         </array>
       </config-file>
     </platform>
