@@ -43,6 +43,13 @@
           <string>maas360auth</string>
           <string>maas360v3</string>
           <string>maas360v4</string>
+          <string>maas360browser</string>
+          <string>maas360browsers</string>
+          <string>maas360browser-x-callback</string>
+          <string>maas360browserv3</string>
+          <string>maas360se</string>
+          <string>maas360SE</string>
+          <string>maas360sev3</string>
         </array>
       </config-file>
     </platform>
